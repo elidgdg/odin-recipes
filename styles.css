@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(243, 178, 103);
+    font-family: "Courier New", monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+.recipe-link, .back-link {
+    color: brown;
+}
+
+.recipe-link {
+    font-size: 25px;
+}
+
+.back-link {
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.recipe-img {
+    width: 300px;
+    height:auto;
+}
